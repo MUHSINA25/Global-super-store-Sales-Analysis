@@ -4,8 +4,13 @@ The primary purpose of this analysis is to create a detailed, interactive sales 
 
 
 1. Bar Chart
+   
    Visual Type: Stacked Bar Chart / Clustered Bar Chart
+   
 2.Map
+
 3.PIE Chart
+
 4.Trea Map
+
 5.Tables
